@@ -1,3 +1,5 @@
-const a = 0;
-
-console.log(a);
+export const search = () => {}
+export const searchAlbums = () => {}
+export const searchTracks = () => {}
+export const searchArtists = () => {}
+export const searchPlaylists = () => {}
